@@ -1,5 +1,5 @@
 <skills>
-           <skills>Python</skills>
-           <skills>SQL</skills>
-           <skills>VPN</skills>
-           <skills>Postman</skills>
+           <skill>Python</skill>
+           <skill>SQL</skill>
+           <skill>VPN</skill>
+           <skill>Postman</skill>
