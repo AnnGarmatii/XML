@@ -1,0 +1,7 @@
+<bug_report>
+      <ID>1</ID>
+      <Created_Date>12_01_21</Created_Date>
+      <Summary>Don`t_open_page</Summary>
+      <Steps_to_reproduce>Open_page</Steps_to_reproduce>
+      <Severity>Low</Severity>
+      <Priority>Medium</Priority>
