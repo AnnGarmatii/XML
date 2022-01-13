@@ -1,7 +1,7 @@
 <aboutme>
-           <lastname>Pashchenko</lastname>
-	   <name>Anna</name>
-	   <age>29</age>
-           <pets>0</pets>
-	   <future_salary>1000$</future_salary>
-              
+  <lastname>Pashchenko</lastname>
+  <name>Anna</name>
+  <age>29</age>
+  <pets>0</pets>
+  <future_salary>1000$</future_salary>
+</aboutme>              

@@ -1,7 +1,19 @@
 <bug_report>
-      <ID>1</ID>
-      <Created_Date>12_01_21</Created_Date>
-      <Summary>Don`t_open_page</Summary>
-      <Steps_to_reproduce>Open_page</Steps_to_reproduce>
-      <Severity>Low</Severity>
-      <Priority>Medium</Priority>
+
+  <BugName>Application crashes upon clicking the SAVE button while creating a new user</BugName>
+  <BugID>1</BugID>
+  <AreaPath>USERS menu -> New Users</AreaPath>
+  <BuildNumber>Version Number 5.0.1</BuildNumber>
+  <Severity>HIGH</Severity>
+  <Priority>HIGH</Priority>
+  <Assignedto>Developer-X</Assignedto>
+  <ReportedBy>Anna</ReportedBy>
+  <ReportedOn>Date</ReportedOn>
+  <Reason>Defect</Reason>
+  <Status>New/Open/Active</Status>
+  <Environment>Windows 2003/SQL Server 2005</Environment>
+  <Description>Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application</Description>
+  <Steps_to_Reproduce/>
+  <Expected_Result>On clicking the SAVE button, you should be prompted to a successful message “New User has been created successfully</Expected_Result>
+  <Attach/>
+</bug_report>
